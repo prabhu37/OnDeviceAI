@@ -40,9 +40,7 @@ The app enables users to **chat with an on-device LLM** that retrieves **relevan
 ---
 
 ## 🎥 Demo Video
-
-📽️ Watch the demo here:  
-https://github.com/prabhu37/OnDeviceAI/blob/main/demo_video_ondevice_ai.mp4
+https://private-user-images.githubusercontent.com/13618996/528576040-7bfa259d-fb73-4a87-af82-76329dad6046.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYxNDM0MzYsIm5iZiI6MTc2NjE0MzEzNiwicGF0aCI6Ii8xMzYxODk5Ni81Mjg1NzYwNDAtN2JmYTI1OWQtZmI3My00YTg3LWFmODItNzYzMjlkYWQ2MDQ2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjE5VDExMTg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0NTZhNjJmNGE2ZGRjNTdjNGJkNjVhYmE5NzJhYmI4ZjI0NTE5NzU5NWZkMzljODFjOTNhOTMwZjVmY2E0NDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.El3JlrvB5eCa9RQH-ZfdQ6yLESDnElXplt9YT2bRY-4
 
 
 ---
